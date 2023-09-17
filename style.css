@@ -93,6 +93,7 @@ button {
         font-family: Georgia, serif;
         font-size: x-large;
         height: max-content;
+        margin-left: 20px;
     }
 }
 
@@ -119,6 +120,8 @@ button {
         font-family: Georgia, serif;
         font-size: x-large;
         height: max-content;
+                margin-left: 20px;
+
     }
 
 }
@@ -134,6 +137,8 @@ button {
         font-family: Georgia, serif;
         font-size: large;
         height: max-content;
+                margin-left: 20px;
+
     }
 
     .calculator {
